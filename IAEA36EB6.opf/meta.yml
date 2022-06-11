@@ -1,0 +1,69 @@
+id: IAEA36EB6
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:29:08.340663'
+last_modified: '2022-06-11T13:29:08.340667'
+parser: null
+source_metadata:
+  title: Atiśa Dīpaṃkara Series
+  language: bo
+  description: Atiśa Dīpaṃkara Śrījñāna (982–1054), known as Jowo Jé Palden Atisha
+    (jo bo rje dpal ldan a ti sha) in Tibetan, was a great Indian master and scholar.
+    He spent the last ten years of his life in Tibet, teaching and translating texts,
+    and was instrumental in reinvigorating Buddhism there after a period of persecution
+    and decline.
+  volume:
+    fA378:
+      title: Heart Treasure for the Warriors Who Long for Liberation
+      base_file: fA378.txt
+      order: 1
+      parent: Advice
+    f119F:
+      title: The Lamp for the Path to Enlightenment
+      base_file: f119F.txt
+      order: 2
+      parent: Advice
+    f48FB:
+      title: 'Bestower of Supreme Blessings: Guru Yoga of the Great Incomparable Lord
+        Atiśa'
+      base_file: f48FB.txt
+      order: 3
+      parent: Guru Yoga
+    fB655:
+      title: The Bodhisattva’s Garland of Jewels
+      base_file: fB655.txt
+      order: 4
+      parent: Mind Training
+    f1E64:
+      title: An Extremely Concise Praise of the Twenty-One Tārās
+      base_file: f1E64.txt
+      order: 5
+      parent: Praise
+    f58DD:
+      title: Light Offering Prayer
+      base_file: f58DD.txt
+      order: 6
+      parent: Prayers
+    f8E3C:
+      title: Prayer for the Future of the Dharma
+      base_file: f8E3C.txt
+      order: 7
+      parent: Prayers
+    f2A7C:
+      title: Prayer to Ārya Tārā
+      base_file: f2A7C.txt
+      order: 8
+      parent: Prayers
+    f4391:
+      title: Short Prayer to Atiśa
+      base_file: f4391.txt
+      order: 9
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
